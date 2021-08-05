@@ -186,4 +186,8 @@ class DrawView @JvmOverloads constructor(
         invalidate()
     }
 
+    fun stub() {
+
+    }
+
 }
